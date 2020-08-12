@@ -1,5 +1,8 @@
 ## The following data files were used for analysis.
 
+#### Target data (number of cases and number of deaths by Texas county up to Aug 4, 2020)
+Texas COVID-19 Fatality Count_min.csv
+
 #### Airports
 Texas_Airports.csv
 
