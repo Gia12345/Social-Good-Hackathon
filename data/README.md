@@ -11,16 +11,16 @@ Financial_Tax_summary.csv
 #### Income
 Income_poverty.csv
 
-Population
+#### Population
 Population.csv
 
-Land Use
+#### Land Use
 General_Information_land_use.csv
 
-COVID19 Policy
+#### COVID19 Policy
 policy_scores_us_counties_reformat.xls
 all_county_policies.csv
 
-Health
+#### Health
 2018 County Health Rankings Texas Data - v3.xls
 Healthcare worker shortage.csv
