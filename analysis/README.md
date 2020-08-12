@@ -15,4 +15,6 @@ all_county_policies.csv
 2018 County Health Rankings Texas Data - v3.xls  
 Healthcare worker shortage.csv  
 #### Data Exploration.ipynb
+Combined the files created by the data prep notebooks with the target data.  Analyzed with visualizations.
 #### Data Models.ipynb
+Used regression to make predictions from the data.
