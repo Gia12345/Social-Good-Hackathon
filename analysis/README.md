@@ -1,6 +1,17 @@
 ## Jupyter Notebooks (Python) with analysis 
 
 #### Data Prep Part 1.ipynb
+Processes the following data files:  
+2020 Texas County Health.csv  
+Age_final.csv  
+education_unemployment_final.csv  
+ethnicity_race_final.csv  
+new policitcal demographics_final.csv  
+Texas Nursing Facility.csv  
+texas prisons.csv  
+TX hospital beds.csv  
+TX military installations.csv  
+TxDOT_Roadway_Inventory.txt  
 #### Data Prep Part 2.ipynb
 Processes the following data files:  
 Texas_Airports.csv  
