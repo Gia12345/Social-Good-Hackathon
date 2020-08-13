@@ -1,0 +1,2541 @@
+county,Age range,population
+Anderson,< 10,"5,816"
+Anderson,19-Oct,"6,633"
+Anderson,20-29,"8,198"
+Anderson,30-39,"9,904"
+Anderson,40-49,"8,920"
+Anderson,50-59,"7,433"
+Anderson,60-69,"5,980"
+Anderson,70-79,"3,963"
+Anderson,80-89,"1,775"
+Anderson,90-95+,357
+Andrews,< 10,"3,169"
+Andrews,19-Oct,"3,044"
+Andrews,20-29,"2,912"
+Andrews,30-39,"2,863"
+Andrews,40-49,"2,088"
+Andrews,50-59,"1,912"
+Andrews,60-69,"1,431"
+Andrews,70-79,753
+Andrews,80-89,414
+Andrews,90-95+,92
+Angelina,< 10,"12,714"
+Angelina,19-Oct,"13,386"
+Angelina,20-29,"12,292"
+Angelina,30-39,"11,347"
+Angelina,40-49,"10,915"
+Angelina,50-59,"11,311"
+Angelina,60-69,"9,583"
+Angelina,70-79,"6,451"
+Angelina,80-89,"3,028"
+Angelina,90-95+,660
+Aransas,< 10,"2,416"
+Aransas,19-Oct,"2,431"
+Aransas,20-29,"2,646"
+Aransas,30-39,"2,507"
+Aransas,40-49,"2,321"
+Aransas,50-59,"3,093"
+Aransas,60-69,"3,696"
+Aransas,70-79,"3,149"
+Aransas,80-89,"1,243"
+Aransas,90-95+,222
+Archer,< 10,"1,008"
+Archer,19-Oct,"1,180"
+Archer,20-29,"1,176"
+Archer,30-39,984
+Archer,40-49,"1,094"
+Archer,50-59,"1,383"
+Archer,60-69,"1,325"
+Archer,70-79,814
+Archer,80-89,423
+Archer,90-95+,72
+Armstrong,< 10,178
+Armstrong,19-Oct,216
+Armstrong,20-29,218
+Armstrong,30-39,180
+Armstrong,40-49,199
+Armstrong,50-59,249
+Armstrong,60-69,302
+Armstrong,70-79,244
+Armstrong,80-89,128
+Armstrong,90-95+,34
+Atascosa,< 10,"7,274"
+Atascosa,19-Oct,"7,143"
+Atascosa,20-29,"7,285"
+Atascosa,30-39,"6,686"
+Atascosa,40-49,"5,724"
+Atascosa,50-59,"5,845"
+Atascosa,60-69,"5,208"
+Atascosa,70-79,"3,400"
+Atascosa,80-89,"1,368"
+Atascosa,90-95+,300
+Austin,< 10,"3,925"
+Austin,19-Oct,"4,057"
+Austin,20-29,"3,687"
+Austin,30-39,"3,514"
+Austin,40-49,"3,585"
+Austin,50-59,"4,196"
+Austin,60-69,"4,292"
+Austin,70-79,"2,870"
+Austin,80-89,"1,108"
+Austin,90-95+,270
+Bailey,< 10,"1,194"
+Bailey,19-Oct,"1,227"
+Bailey,20-29,941
+Bailey,30-39,869
+Bailey,40-49,790
+Bailey,50-59,767
+Bailey,60-69,661
+Bailey,70-79,419
+Bailey,80-89,242
+Bailey,90-95+,69
+Bandera,< 10,"2,005"
+Bandera,19-Oct,"2,090"
+Bandera,20-29,"2,230"
+Bandera,30-39,"1,967"
+Bandera,40-49,"2,252"
+Bandera,50-59,"3,729"
+Bandera,60-69,"4,279"
+Bandera,70-79,"2,920"
+Bandera,80-89,"1,042"
+Bandera,90-95+,209
+Bastrop,< 10,"11,047"
+Bastrop,19-Oct,"12,983"
+Bastrop,20-29,"11,212"
+Bastrop,30-39,"10,145"
+Bastrop,40-49,"10,775"
+Bastrop,50-59,"12,048"
+Bastrop,60-69,"10,852"
+Bastrop,70-79,"6,268"
+Bastrop,80-89,"2,335"
+Bastrop,90-95+,492
+Baylor,< 10,466
+Baylor,19-Oct,455
+Baylor,20-29,388
+Baylor,30-39,381
+Baylor,40-49,368
+Baylor,50-59,488
+Baylor,60-69,541
+Baylor,70-79,381
+Baylor,80-89,227
+Baylor,90-95+,58
+Bee,< 10,"4,203"
+Bee,19-Oct,"3,966"
+Bee,20-29,"5,916"
+Bee,30-39,"5,485"
+Bee,40-49,"4,282"
+Bee,50-59,"3,667"
+Bee,60-69,"2,926"
+Bee,70-79,"1,812"
+Bee,80-89,800
+Bee,90-95+,183
+Bell,< 10,"60,037"
+Bell,19-Oct,"53,459"
+Bell,20-29,"62,269"
+Bell,30-39,"51,352"
+Bell,40-49,"39,846"
+Bell,50-59,"35,226"
+Bell,60-69,"27,624"
+Bell,70-79,"15,862"
+Bell,80-89,"6,597"
+Bell,90-95+,"1,362"
+Bexar,< 10,"289,072"
+Bexar,19-Oct,"280,629"
+Bexar,20-29,"312,102"
+Bexar,30-39,"286,376"
+Bexar,40-49,"244,757"
+Bexar,50-59,"225,824"
+Bexar,60-69,"181,802"
+Bexar,70-79,"103,219"
+Bexar,80-89,"44,805"
+Bexar,90-95+,"10,708"
+Blanco,< 10,"1,181"
+Blanco,19-Oct,"1,243"
+Blanco,20-29,"1,174"
+Blanco,30-39,"1,123"
+Blanco,40-49,"1,245"
+Blanco,50-59,"1,692"
+Blanco,60-69,"2,070"
+Blanco,70-79,"1,422"
+Blanco,80-89,498
+Blanco,90-95+,124
+Borden,< 10,61
+Borden,19-Oct,56
+Borden,20-29,84
+Borden,30-39,53
+Borden,40-49,75
+Borden,50-59,90
+Borden,60-69,96
+Borden,70-79,74
+Borden,80-89,64
+Borden,90-95+,14
+Bosque,< 10,"2,190"
+Bosque,19-Oct,"2,159"
+Bosque,20-29,"1,925"
+Bosque,30-39,"1,914"
+Bosque,40-49,"1,952"
+Bosque,50-59,"2,553"
+Bosque,60-69,"2,846"
+Bosque,70-79,"2,232"
+Bosque,80-89,940
+Bosque,90-95+,205
+Bowie,< 10,"10,898"
+Bowie,19-Oct,"12,456"
+Bowie,20-29,"13,577"
+Bowie,30-39,"13,446"
+Bowie,40-49,"12,256"
+Bowie,50-59,"12,160"
+Bowie,60-69,"11,061"
+Bowie,70-79,"7,615"
+Bowie,80-89,"3,114"
+Bowie,90-95+,814
+Brazoria,< 10,"50,823"
+Brazoria,19-Oct,"55,632"
+Brazoria,20-29,"49,446"
+Brazoria,30-39,"50,925"
+Brazoria,40-49,"52,466"
+Brazoria,50-59,"48,571"
+Brazoria,60-69,"38,289"
+Brazoria,70-79,"19,891"
+Brazoria,80-89,"7,929"
+Brazoria,90-95+,"1,545"
+Brazos,< 10,"27,587"
+Brazos,19-Oct,"38,672"
+Brazos,20-29,"59,344"
+Brazos,30-39,"29,744"
+Brazos,40-49,"22,311"
+Brazos,50-59,"19,265"
+Brazos,60-69,"15,641"
+Brazos,70-79,"8,959"
+Brazos,80-89,"3,913"
+Brazos,90-95+,858
+Brewster,< 10,"1,266"
+Brewster,19-Oct,974
+Brewster,20-29,"1,067"
+Brewster,30-39,"1,269"
+Brewster,40-49,"1,000"
+Brewster,50-59,"1,105"
+Brewster,60-69,"1,272"
+Brewster,70-79,871
+Brewster,80-89,332
+Brewster,90-95+,93
+Briscoe,< 10,158
+Briscoe,19-Oct,181
+Briscoe,20-29,137
+Briscoe,30-39,134
+Briscoe,40-49,185
+Briscoe,50-59,200
+Briscoe,60-69,194
+Briscoe,70-79,203
+Briscoe,80-89,93
+Briscoe,90-95+,31
+Brooks,< 10,"1,105"
+Brooks,19-Oct,944
+Brooks,20-29,994
+Brooks,30-39,889
+Brooks,40-49,648
+Brooks,50-59,785
+Brooks,60-69,777
+Brooks,70-79,654
+Brooks,80-89,329
+Brooks,90-95+,90
+Brown,< 10,"4,539"
+Brown,19-Oct,"5,102"
+Brown,20-29,"4,680"
+Brown,30-39,"4,654"
+Brown,40-49,"4,424"
+Brown,50-59,"4,954"
+Brown,60-69,"4,962"
+Brown,70-79,"3,763"
+Brown,80-89,"1,759"
+Brown,90-95+,442
+Burleson,< 10,"2,150"
+Burleson,19-Oct,"2,439"
+Burleson,20-29,"2,222"
+Burleson,30-39,"1,934"
+Burleson,40-49,"1,894"
+Burleson,50-59,"2,498"
+Burleson,60-69,"2,535"
+Burleson,70-79,"1,670"
+Burleson,80-89,841
+Burleson,90-95+,209
+Burnet,< 10,"5,699"
+Burnet,19-Oct,"5,636"
+Burnet,20-29,"5,466"
+Burnet,30-39,"5,234"
+Burnet,40-49,"4,986"
+Burnet,50-59,"6,273"
+Burnet,60-69,"6,924"
+Burnet,70-79,"4,805"
+Burnet,80-89,"2,153"
+Burnet,90-95+,473
+Caldwell,< 10,"5,583"
+Caldwell,19-Oct,"6,304"
+Caldwell,20-29,"5,979"
+Caldwell,30-39,"5,686"
+Caldwell,40-49,"5,044"
+Caldwell,50-59,"5,212"
+Caldwell,60-69,"4,605"
+Caldwell,70-79,"2,711"
+Caldwell,80-89,"1,174"
+Caldwell,90-95+,295
+Calhoun,< 10,"3,098"
+Calhoun,19-Oct,"2,922"
+Calhoun,20-29,"2,912"
+Calhoun,30-39,"2,622"
+Calhoun,40-49,"2,324"
+Calhoun,50-59,"2,826"
+Calhoun,60-69,"2,531"
+Calhoun,70-79,"1,697"
+Calhoun,80-89,847
+Calhoun,90-95+,176
+Callahan,< 10,"1,437"
+Callahan,19-Oct,"1,666"
+Callahan,20-29,"1,544"
+Callahan,30-39,"1,641"
+Callahan,40-49,"1,657"
+Callahan,50-59,"2,020"
+Callahan,60-69,"1,997"
+Callahan,70-79,"1,387"
+Callahan,80-89,665
+Callahan,90-95+,128
+Cameron,< 10,"69,617"
+Cameron,19-Oct,"70,717"
+Cameron,20-29,"59,985"
+Cameron,30-39,"50,292"
+Cameron,40-49,"51,531"
+Cameron,50-59,"44,796"
+Cameron,60-69,"39,253"
+Cameron,70-79,"25,563"
+Cameron,80-89,"11,645"
+Cameron,90-95+,"2,428"
+Camp,< 10,"1,755"
+Camp,19-Oct,"1,773"
+Camp,20-29,"1,681"
+Camp,30-39,"1,475"
+Camp,40-49,"1,433"
+Camp,50-59,"1,506"
+Camp,60-69,"1,651"
+Camp,70-79,"1,009"
+Camp,80-89,449
+Camp,90-95+,118
+Carson,< 10,684
+Carson,19-Oct,840
+Carson,20-29,765
+Carson,30-39,742
+Carson,40-49,701
+Carson,50-59,830
+Carson,60-69,786
+Carson,70-79,468
+Carson,80-89,236
+Carson,90-95+,54
+Cass,< 10,"3,812"
+Cass,19-Oct,"3,635"
+Cass,20-29,"3,285"
+Cass,30-39,"3,199"
+Cass,40-49,"3,421"
+Cass,50-59,"4,080"
+Cass,60-69,"4,235"
+Cass,70-79,"3,469"
+Cass,80-89,"1,371"
+Cass,90-95+,312
+Castro,< 10,"1,223"
+Castro,19-Oct,"1,082"
+Castro,20-29,952
+Castro,30-39,879
+Castro,40-49,850
+Castro,50-59,899
+Castro,60-69,871
+Castro,70-79,537
+Castro,80-89,291
+Castro,90-95+,62
+Chambers,< 10,"6,007"
+Chambers,19-Oct,"6,299"
+Chambers,20-29,"6,147"
+Chambers,30-39,"5,625"
+Chambers,40-49,"5,754"
+Chambers,50-59,"5,326"
+Chambers,60-69,"4,382"
+Chambers,70-79,"2,439"
+Chambers,80-89,839
+Chambers,90-95+,200
+Cherokee,< 10,"7,271"
+Cherokee,19-Oct,"7,731"
+Cherokee,20-29,"6,696"
+Cherokee,30-39,"6,224"
+Cherokee,40-49,"6,608"
+Cherokee,50-59,"6,495"
+Cherokee,60-69,"6,153"
+Cherokee,70-79,"4,156"
+Cherokee,80-89,"1,725"
+Cherokee,90-95+,368
+Childress,< 10,768
+Childress,19-Oct,815
+Childress,20-29,"1,394"
+Childress,30-39,"1,039"
+Childress,40-49,748
+Childress,50-59,711
+Childress,60-69,682
+Childress,70-79,479
+Childress,80-89,288
+Childress,90-95+,69
+Clay,< 10,"1,081"
+Clay,19-Oct,"1,169"
+Clay,20-29,"1,115"
+Clay,30-39,"1,025"
+Clay,40-49,"1,185"
+Clay,50-59,"1,570"
+Clay,60-69,"1,664"
+Clay,70-79,"1,034"
+Clay,80-89,471
+Clay,90-95+,96
+Cochran,< 10,480
+Cochran,19-Oct,441
+Cochran,20-29,393
+Cochran,30-39,326
+Cochran,40-49,259
+Cochran,50-59,372
+Cochran,60-69,304
+Cochran,70-79,207
+Cochran,80-89,120
+Cochran,90-95+,27
+Coke,< 10,336
+Coke,19-Oct,399
+Coke,20-29,367
+Coke,30-39,295
+Coke,40-49,292
+Coke,50-59,480
+Coke,60-69,495
+Coke,70-79,413
+Coke,80-89,225
+Coke,90-95+,57
+Coleman,< 10,"1,053"
+Coleman,19-Oct,"1,088"
+Coleman,20-29,946
+Coleman,30-39,794
+Coleman,40-49,883
+Coleman,50-59,"1,022"
+Coleman,60-69,"1,161"
+Coleman,70-79,945
+Coleman,80-89,509
+Coleman,90-95+,104
+Collin,< 10,"131,794"
+Collin,19-Oct,"155,838"
+Collin,20-29,"126,483"
+Collin,30-39,"128,323"
+Collin,40-49,"156,838"
+Collin,50-59,"140,703"
+Collin,60-69,"93,671"
+Collin,70-79,"50,798"
+Collin,80-89,"16,584"
+Collin,90-95+,"2,887"
+Collingsworth,< 10,443
+Collingsworth,19-Oct,416
+Collingsworth,20-29,331
+Collingsworth,30-39,331
+Collingsworth,40-49,291
+Collingsworth,50-59,371
+Collingsworth,60-69,354
+Collingsworth,70-79,268
+Collingsworth,80-89,119
+Collingsworth,90-95+,35
+Colorado,< 10,"2,769"
+Colorado,19-Oct,"2,769"
+Colorado,20-29,"2,449"
+Colorado,30-39,"2,309"
+Colorado,40-49,"2,231"
+Colorado,50-59,"2,779"
+Colorado,60-69,"3,020"
+Colorado,70-79,"2,072"
+Colorado,80-89,"1,034"
+Colorado,90-95+,298
+Comal,< 10,"17,375"
+Comal,19-Oct,"18,531"
+Comal,20-29,"17,890"
+Comal,30-39,"17,642"
+Comal,40-49,"17,702"
+Comal,50-59,"19,916"
+Comal,60-69,"19,738"
+Comal,70-79,"12,087"
+Comal,80-89,"4,968"
+Comal,90-95+,"1,092"
+Comanche,< 10,"1,794"
+Comanche,19-Oct,"1,649"
+Comanche,20-29,"1,398"
+Comanche,30-39,"1,325"
+Comanche,40-49,"1,477"
+Comanche,50-59,"1,871"
+Comanche,60-69,"1,958"
+Comanche,70-79,"1,615"
+Comanche,80-89,693
+Comanche,90-95+,142
+Concho,< 10,159
+Concho,19-Oct,178
+Concho,20-29,320
+Concho,30-39,372
+Concho,40-49,405
+Concho,50-59,250
+Concho,60-69,237
+Concho,70-79,197
+Concho,80-89,94
+Concho,90-95+,27
+Cooke,< 10,"4,820"
+Cooke,19-Oct,"5,342"
+Cooke,20-29,"5,066"
+Cooke,30-39,"4,672"
+Cooke,40-49,"4,301"
+Cooke,50-59,"5,366"
+Cooke,60-69,"5,266"
+Cooke,70-79,"3,386"
+Cooke,80-89,"1,529"
+Cooke,90-95+,347
+Coryell,< 10,"10,448"
+Coryell,19-Oct,"10,762"
+Coryell,20-29,"13,785"
+Coryell,30-39,"13,122"
+Coryell,40-49,"9,737"
+Coryell,50-59,"6,841"
+Coryell,60-69,"4,766"
+Coryell,70-79,"2,993"
+Coryell,80-89,"1,305"
+Coryell,90-95+,233
+Cottle,< 10,152
+Cottle,19-Oct,172
+Cottle,20-29,146
+Cottle,30-39,116
+Cottle,40-49,112
+Cottle,50-59,186
+Cottle,60-69,188
+Cottle,70-79,163
+Cottle,80-89,107
+Cottle,90-95+,33
+Crane,< 10,768
+Crane,19-Oct,713
+Crane,20-29,677
+Crane,30-39,516
+Crane,40-49,507
+Crane,50-59,650
+Crane,60-69,452
+Crane,70-79,258
+Crane,80-89,130
+Crane,90-95+,40
+Crockett,< 10,487
+Crockett,19-Oct,437
+Crockett,20-29,375
+Crockett,30-39,384
+Crockett,40-49,373
+Crockett,50-59,435
+Crockett,60-69,466
+Crockett,70-79,292
+Crockett,80-89,155
+Crockett,90-95+,52
+Crosby,< 10,807
+Crosby,19-Oct,847
+Crosby,20-29,765
+Crosby,30-39,550
+Crosby,40-49,571
+Crosby,50-59,667
+Crosby,60-69,703
+Crosby,70-79,569
+Crosby,80-89,250
+Crosby,90-95+,67
+Culberson,< 10,284
+Culberson,19-Oct,213
+Culberson,20-29,261
+Culberson,30-39,230
+Culberson,40-49,230
+Culberson,50-59,292
+Culberson,60-69,308
+Culberson,70-79,192
+Culberson,80-89,126
+Culberson,90-95+,39
+Dallam,< 10,"1,266"
+Dallam,19-Oct,"1,199"
+Dallam,20-29,"1,039"
+Dallam,30-39,990
+Dallam,40-49,895
+Dallam,50-59,880
+Dallam,60-69,607
+Dallam,70-79,279
+Dallam,80-89,118
+Dallam,90-95+,38
+Dallas,< 10,"402,667"
+Dallas,19-Oct,"379,072"
+Dallas,20-29,"389,809"
+Dallas,30-39,"399,427"
+Dallas,40-49,"350,483"
+Dallas,50-59,"315,364"
+Dallas,60-69,"230,467"
+Dallas,70-79,"117,653"
+Dallas,80-89,"49,489"
+Dallas,90-95+,"11,742"
+Dawson,< 10,"1,676"
+Dawson,19-Oct,"1,701"
+Dawson,20-29,"2,298"
+Dawson,30-39,"1,851"
+Dawson,40-49,"1,305"
+Dawson,50-59,"1,290"
+Dawson,60-69,"1,033"
+Dawson,70-79,800
+Dawson,80-89,502
+Dawson,90-95+,125
+Deaf Smith,< 10,"3,300"
+Deaf Smith,19-Oct,"3,317"
+Deaf Smith,20-29,"2,749"
+Deaf Smith,30-39,"2,464"
+Deaf Smith,40-49,"2,227"
+Deaf Smith,50-59,"2,059"
+Deaf Smith,60-69,"1,825"
+Deaf Smith,70-79,949
+Deaf Smith,80-89,527
+Deaf Smith,90-95+,121
+Delta,< 10,614
+Delta,19-Oct,600
+Delta,20-29,534
+Delta,30-39,565
+Delta,40-49,557
+Delta,50-59,721
+Delta,60-69,761
+Delta,70-79,611
+Delta,80-89,255
+Delta,90-95+,64
+Denton,< 10,"104,296"
+Denton,19-Oct,"131,161"
+Denton,20-29,"131,479"
+Denton,30-39,"113,125"
+Denton,40-49,"127,410"
+Denton,50-59,"114,182"
+Denton,60-69,"76,107"
+Denton,70-79,"39,128"
+Denton,80-89,"12,574"
+Denton,90-95+,"2,366"
+DeWitt,< 10,"2,559"
+DeWitt,19-Oct,"2,370"
+DeWitt,20-29,"2,415"
+DeWitt,30-39,"2,657"
+DeWitt,40-49,"2,558"
+DeWitt,50-59,"2,758"
+DeWitt,60-69,"2,570"
+DeWitt,70-79,"1,826"
+DeWitt,80-89,972
+DeWitt,90-95+,253
+Dickens,< 10,170
+Dickens,19-Oct,240
+Dickens,20-29,299
+Dickens,30-39,272
+Dickens,40-49,284
+Dickens,50-59,257
+Dickens,60-69,303
+Dickens,70-79,247
+Dickens,80-89,143
+Dickens,90-95+,40
+Dimmit,< 10,"1,717"
+Dimmit,19-Oct,"1,583"
+Dimmit,20-29,"1,443"
+Dimmit,30-39,"1,276"
+Dimmit,40-49,"1,080"
+Dimmit,50-59,"1,076"
+Dimmit,60-69,"1,017"
+Dimmit,70-79,686
+Dimmit,80-89,336
+Dimmit,90-95+,94
+Donley,< 10,398
+Donley,19-Oct,439
+Donley,20-29,408
+Donley,30-39,331
+Donley,40-49,297
+Donley,50-59,417
+Donley,60-69,469
+Donley,70-79,370
+Donley,80-89,177
+Donley,90-95+,40
+Duval,< 10,"1,667"
+Duval,19-Oct,"1,455"
+Duval,20-29,"1,527"
+Duval,30-39,"1,235"
+Duval,40-49,"1,188"
+Duval,50-59,"1,284"
+Duval,60-69,"1,091"
+Duval,70-79,986
+Duval,80-89,451
+Duval,90-95+,101
+Eastland,< 10,"2,274"
+Eastland,19-Oct,"2,428"
+Eastland,20-29,"2,151"
+Eastland,30-39,"1,909"
+Eastland,40-49,"1,867"
+Eastland,50-59,"2,353"
+Eastland,60-69,"2,457"
+Eastland,70-79,"1,954"
+Eastland,80-89,873
+Eastland,90-95+,192
+Ector,< 10,"27,321"
+Ector,19-Oct,"25,944"
+Ector,20-29,"26,743"
+Ector,30-39,"25,011"
+Ector,40-49,"18,191"
+Ector,50-59,"16,400"
+Ector,60-69,"12,906"
+Ector,70-79,"6,860"
+Ector,80-89,"3,273"
+Ector,90-95+,700
+Edwards,< 10,218
+Edwards,19-Oct,207
+Edwards,20-29,199
+Edwards,30-39,176
+Edwards,40-49,166
+Edwards,50-59,246
+Edwards,60-69,305
+Edwards,70-79,240
+Edwards,80-89,118
+Edwards,90-95+,38
+El Paso,< 10,"138,558"
+El Paso,19-Oct,"123,146"
+El Paso,20-29,"129,257"
+El Paso,30-39,"114,049"
+El Paso,40-49,"100,613"
+El Paso,50-59,"95,346"
+El Paso,60-69,"78,602"
+El Paso,70-79,"45,676"
+El Paso,80-89,"22,221"
+El Paso,90-95+,"5,084"
+Ellis,< 10,"23,955"
+Ellis,19-Oct,"27,301"
+Ellis,20-29,"25,267"
+Ellis,30-39,"21,666"
+Ellis,40-49,"22,615"
+Ellis,50-59,"23,443"
+Ellis,60-69,"19,190"
+Ellis,70-79,"10,744"
+Ellis,80-89,"3,992"
+Ellis,90-95+,792
+Erath,< 10,"5,009"
+Erath,19-Oct,"6,440"
+Erath,20-29,"8,730"
+Erath,30-39,"5,295"
+Erath,40-49,"4,330"
+Erath,50-59,"4,649"
+Erath,60-69,"4,134"
+Erath,70-79,"2,800"
+Erath,80-89,"1,322"
+Erath,90-95+,307
+Falls,< 10,"1,895"
+Falls,19-Oct,"2,048"
+Falls,20-29,"2,540"
+Falls,30-39,"2,406"
+Falls,40-49,"1,976"
+Falls,50-59,"2,145"
+Falls,60-69,"2,032"
+Falls,70-79,"1,386"
+Falls,80-89,732
+Falls,90-95+,195
+Fannin,< 10,"3,954"
+Fannin,19-Oct,"3,974"
+Fannin,20-29,"4,393"
+Fannin,30-39,"4,299"
+Fannin,40-49,"4,240"
+Fannin,50-59,"4,789"
+Fannin,60-69,"4,590"
+Fannin,70-79,"3,322"
+Fannin,80-89,"1,450"
+Fannin,90-95+,309
+Fayette,< 10,"3,112"
+Fayette,19-Oct,"3,122"
+Fayette,20-29,"2,845"
+Fayette,30-39,"2,395"
+Fayette,40-49,"2,495"
+Fayette,50-59,"3,475"
+Fayette,60-69,"3,791"
+Fayette,70-79,"2,830"
+Fayette,80-89,"1,425"
+Fayette,90-95+,367
+Fisher,< 10,430
+Fisher,19-Oct,424
+Fisher,20-29,431
+Fisher,30-39,335
+Fisher,40-49,413
+Fisher,50-59,498
+Fisher,60-69,543
+Fisher,70-79,421
+Fisher,80-89,222
+Fisher,90-95+,60
+Floyd,< 10,831
+Floyd,19-Oct,753
+Floyd,20-29,725
+Floyd,30-39,613
+Floyd,40-49,587
+Floyd,50-59,651
+Floyd,60-69,687
+Floyd,70-79,504
+Floyd,80-89,289
+Floyd,90-95+,75
+Foard,< 10,142
+Foard,19-Oct,114
+Foard,20-29,120
+Foard,30-39,108
+Foard,40-49,119
+Foard,50-59,186
+Foard,60-69,163
+Foard,70-79,144
+Foard,80-89,87
+Foard,90-95+,32
+Fort Bend,< 10,"104,671"
+Fort Bend,19-Oct,"118,590"
+Fort Bend,20-29,"105,425"
+Fort Bend,30-39,"99,746"
+Fort Bend,40-49,"109,844"
+Fort Bend,50-59,"103,742"
+Fort Bend,60-69,"84,433"
+Fort Bend,70-79,"38,299"
+Fort Bend,80-89,"12,464"
+Fort Bend,90-95+,"2,386"
+Franklin,< 10,"1,536"
+Franklin,19-Oct,"1,399"
+Franklin,20-29,"1,144"
+Franklin,30-39,"1,228"
+Franklin,40-49,"1,136"
+Franklin,50-59,"1,452"
+Franklin,60-69,"1,391"
+Franklin,70-79,974
+Franklin,80-89,440
+Franklin,90-95+,85
+Freestone,< 10,"2,507"
+Freestone,19-Oct,"2,526"
+Freestone,20-29,"2,230"
+Freestone,30-39,"2,576"
+Freestone,40-49,"2,679"
+Freestone,50-59,"2,605"
+Freestone,60-69,"2,573"
+Freestone,70-79,"1,770"
+Freestone,80-89,769
+Freestone,90-95+,194
+Frio,< 10,"2,555"
+Frio,19-Oct,"2,652"
+Frio,20-29,"3,922"
+Frio,30-39,"3,015"
+Frio,40-49,"1,977"
+Frio,50-59,"1,851"
+Frio,60-69,"1,654"
+Frio,70-79,"1,161"
+Frio,80-89,518
+Frio,90-95+,106
+Gaines,< 10,"3,802"
+Gaines,19-Oct,"3,840"
+Gaines,20-29,"2,948"
+Gaines,30-39,"2,924"
+Gaines,40-49,"2,210"
+Gaines,50-59,"2,243"
+Gaines,60-69,"1,505"
+Gaines,70-79,912
+Gaines,80-89,513
+Gaines,90-95+,107
+Galveston,< 10,"44,716"
+Galveston,19-Oct,"45,479"
+Galveston,20-29,"44,222"
+Galveston,30-39,"46,294"
+Galveston,40-49,"42,516"
+Galveston,50-59,"44,730"
+Galveston,60-69,"38,294"
+Galveston,70-79,"20,819"
+Galveston,80-89,"8,478"
+Galveston,90-95+,"1,955"
+Garza,< 10,730
+Garza,19-Oct,793
+Garza,20-29,"1,383"
+Garza,30-39,861
+Garza,40-49,825
+Garza,50-59,812
+Garza,60-69,472
+Garza,70-79,323
+Garza,80-89,156
+Garza,90-95+,43
+Gillespie,< 10,"2,772"
+Gillespie,19-Oct,"2,862"
+Gillespie,20-29,"2,659"
+Gillespie,30-39,"2,666"
+Gillespie,40-49,"2,532"
+Gillespie,50-59,"3,443"
+Gillespie,60-69,"4,352"
+Gillespie,70-79,"3,529"
+Gillespie,80-89,"1,698"
+Gillespie,90-95+,460
+Glasscock,< 10,158
+Glasscock,19-Oct,182
+Glasscock,20-29,179
+Glasscock,30-39,129
+Glasscock,40-49,174
+Glasscock,50-59,174
+Glasscock,60-69,171
+Glasscock,70-79,120
+Glasscock,80-89,84
+Glasscock,90-95+,9
+Goliad,< 10,811
+Goliad,19-Oct,934
+Goliad,20-29,934
+Goliad,30-39,709
+Goliad,40-49,757
+Goliad,50-59,"1,064"
+Goliad,60-69,"1,211"
+Goliad,70-79,891
+Goliad,80-89,370
+Goliad,90-95+,110
+Gonzales,< 10,"3,024"
+Gonzales,19-Oct,"2,981"
+Gonzales,20-29,"2,595"
+Gonzales,30-39,"2,343"
+Gonzales,40-49,"2,278"
+Gonzales,50-59,"2,507"
+Gonzales,60-69,"2,311"
+Gonzales,70-79,"1,604"
+Gonzales,80-89,801
+Gonzales,90-95+,197
+Gray,< 10,"2,987"
+Gray,19-Oct,"2,975"
+Gray,20-29,"2,835"
+Gray,30-39,"3,145"
+Gray,40-49,"2,758"
+Gray,50-59,"2,610"
+Gray,60-69,"2,255"
+Gray,70-79,"1,470"
+Gray,80-89,788
+Gray,90-95+,170
+Grayson,< 10,"17,015"
+Grayson,19-Oct,"17,817"
+Grayson,20-29,"16,533"
+Grayson,30-39,"16,099"
+Grayson,40-49,"15,519"
+Grayson,50-59,"17,924"
+Grayson,60-69,"16,848"
+Grayson,70-79,"11,008"
+Grayson,80-89,"4,866"
+Grayson,90-95+,"1,109"
+Gregg,< 10,"17,523"
+Gregg,19-Oct,"17,868"
+Gregg,20-29,"17,189"
+Gregg,30-39,"16,981"
+Gregg,40-49,"14,525"
+Gregg,50-59,"15,005"
+Gregg,60-69,"13,643"
+Gregg,70-79,"8,142"
+Gregg,80-89,"4,044"
+Gregg,90-95+,986
+Grimes,< 10,"3,472"
+Grimes,19-Oct,"3,485"
+Grimes,20-29,"3,643"
+Grimes,30-39,"3,545"
+Grimes,40-49,"3,482"
+Grimes,50-59,"3,833"
+Grimes,60-69,"3,925"
+Grimes,70-79,"2,319"
+Grimes,80-89,940
+Grimes,90-95+,227
+Guadalupe,< 10,"22,214"
+Guadalupe,19-Oct,"22,720"
+Guadalupe,20-29,"22,225"
+Guadalupe,30-39,"21,896"
+Guadalupe,40-49,"20,702"
+Guadalupe,50-59,"20,983"
+Guadalupe,60-69,"16,540"
+Guadalupe,70-79,"10,230"
+Guadalupe,80-89,"4,236"
+Guadalupe,90-95+,872
+Hale,< 10,"5,284"
+Hale,19-Oct,"5,072"
+Hale,20-29,"5,186"
+Hale,30-39,"4,517"
+Hale,40-49,"3,709"
+Hale,50-59,"3,772"
+Hale,60-69,"3,137"
+Hale,70-79,"1,949"
+Hale,80-89,"1,042"
+Hale,90-95+,251
+Hall,< 10,406
+Hall,19-Oct,401
+Hall,20-29,392
+Hall,30-39,267
+Hall,40-49,292
+Hall,50-59,383
+Hall,60-69,390
+Hall,70-79,347
+Hall,80-89,171
+Hall,90-95+,57
+Hamilton,< 10,"1,075"
+Hamilton,19-Oct,"1,014"
+Hamilton,20-29,999
+Hamilton,30-39,881
+Hamilton,40-49,922
+Hamilton,50-59,"1,088"
+Hamilton,60-69,"1,055"
+Hamilton,70-79,976
+Hamilton,80-89,530
+Hamilton,90-95+,127
+Hansford,< 10,810
+Hansford,19-Oct,894
+Hansford,20-29,701
+Hansford,30-39,557
+Hansford,40-49,606
+Hansford,50-59,660
+Hansford,60-69,573
+Hansford,70-79,370
+Hansford,80-89,190
+Hansford,90-95+,54
+Hardeman,< 10,536
+Hardeman,19-Oct,471
+Hardeman,20-29,410
+Hardeman,30-39,412
+Hardeman,40-49,451
+Hardeman,50-59,485
+Hardeman,60-69,523
+Hardeman,70-79,339
+Hardeman,80-89,147
+Hardeman,90-95+,42
+Hardin,< 10,"6,687"
+Hardin,19-Oct,"8,290"
+Hardin,20-29,"7,458"
+Hardin,30-39,"7,102"
+Hardin,40-49,"6,984"
+Hardin,50-59,"7,833"
+Hardin,60-69,"7,163"
+Hardin,70-79,"4,479"
+Hardin,80-89,"1,947"
+Hardin,90-95+,412
+Harris,< 10,"716,586"
+Harris,19-Oct,"672,016"
+Harris,20-29,"694,906"
+Harris,30-39,"732,552"
+Harris,40-49,"624,797"
+Harris,50-59,"537,627"
+Harris,60-69,"407,880"
+Harris,70-79,"203,581"
+Harris,80-89,"79,088"
+Harris,90-95+,"17,745"
+Harrison,< 10,"9,652"
+Harrison,19-Oct,"9,375"
+Harrison,20-29,"8,726"
+Harrison,30-39,"8,581"
+Harrison,40-49,"7,983"
+Harrison,50-59,"8,391"
+Harrison,60-69,"8,037"
+Harrison,70-79,"5,135"
+Harrison,80-89,"2,127"
+Harrison,90-95+,446
+Hartley,< 10,584
+Hartley,19-Oct,697
+Hartley,20-29,677
+Hartley,30-39,885
+Hartley,40-49,"1,039"
+Hartley,50-59,816
+Hartley,60-69,443
+Hartley,70-79,426
+Hartley,80-89,208
+Hartley,90-95+,50
+Haskell,< 10,647
+Haskell,19-Oct,643
+Haskell,20-29,839
+Haskell,30-39,672
+Haskell,40-49,577
+Haskell,50-59,715
+Haskell,60-69,753
+Haskell,70-79,503
+Haskell,80-89,297
+Haskell,90-95+,97
+Hays,< 10,"25,879"
+Hays,19-Oct,"35,879"
+Hays,20-29,"40,973"
+Hays,30-39,"27,329"
+Hays,40-49,"26,580"
+Hays,50-59,"25,559"
+Hays,60-69,"21,710"
+Hays,70-79,"12,119"
+Hays,80-89,"4,373"
+Hays,90-95+,865
+Hemphill,< 10,604
+Hemphill,19-Oct,693
+Hemphill,20-29,455
+Hemphill,30-39,485
+Hemphill,40-49,451
+Hemphill,50-59,440
+Hemphill,60-69,336
+Hemphill,70-79,220
+Hemphill,80-89,118
+Hemphill,90-95+,46
+Henderson,< 10,"9,294"
+Henderson,19-Oct,"9,910"
+Henderson,20-29,"9,351"
+Henderson,30-39,"8,813"
+Henderson,40-49,"9,272"
+Henderson,50-59,"11,276"
+Henderson,60-69,"11,588"
+Henderson,70-79,"8,699"
+Henderson,80-89,"3,652"
+Henderson,90-95+,662
+Hidalgo,< 10,"145,725"
+Hidalgo,19-Oct,"152,523"
+Hidalgo,20-29,"137,952"
+Hidalgo,30-39,"112,059"
+Hidalgo,40-49,"109,318"
+Hidalgo,50-59,"86,815"
+Hidalgo,60-69,"68,289"
+Hidalgo,70-79,"44,100"
+Hidalgo,80-89,"19,230"
+Hidalgo,90-95+,"4,013"
+Hill,< 10,"4,830"
+Hill,19-Oct,"4,653"
+Hill,20-29,"4,119"
+Hill,30-39,"4,035"
+Hill,40-49,"3,842"
+Hill,50-59,"4,721"
+Hill,60-69,"4,748"
+Hill,70-79,"3,536"
+Hill,80-89,"1,517"
+Hill,90-95+,353
+Hockley,< 10,"3,511"
+Hockley,19-Oct,"3,632"
+Hockley,20-29,"3,464"
+Hockley,30-39,"2,999"
+Hockley,40-49,"2,376"
+Hockley,50-59,"2,554"
+Hockley,60-69,"2,375"
+Hockley,70-79,"1,485"
+Hockley,80-89,758
+Hockley,90-95+,164
+Hood,< 10,"6,251"
+Hood,19-Oct,"6,963"
+Hood,20-29,"6,381"
+Hood,30-39,"6,523"
+Hood,40-49,"6,070"
+Hood,50-59,"8,003"
+Hood,60-69,"9,156"
+Hood,70-79,"6,983"
+Hood,80-89,"3,170"
+Hood,90-95+,678
+Hopkins,< 10,"4,672"
+Hopkins,19-Oct,"4,911"
+Hopkins,20-29,"4,420"
+Hopkins,30-39,"4,422"
+Hopkins,40-49,"4,236"
+Hopkins,50-59,"4,705"
+Hopkins,60-69,"4,582"
+Hopkins,70-79,"3,217"
+Hopkins,80-89,"1,478"
+Hopkins,90-95+,325
+Houston,< 10,"2,629"
+Houston,19-Oct,"2,414"
+Houston,20-29,"2,642"
+Houston,30-39,"2,912"
+Houston,40-49,"3,029"
+Houston,50-59,"3,126"
+Houston,60-69,"3,022"
+Houston,70-79,"2,231"
+Houston,80-89,"1,069"
+Houston,90-95+,265
+Howard,< 10,"4,794"
+Howard,19-Oct,"4,531"
+Howard,20-29,"5,659"
+Howard,30-39,"5,115"
+Howard,40-49,"4,672"
+Howard,50-59,"5,000"
+Howard,60-69,"3,229"
+Howard,70-79,"1,781"
+Howard,80-89,"1,056"
+Howard,90-95+,233
+Hudspeth,< 10,477
+Hudspeth,19-Oct,425
+Hudspeth,20-29,464
+Hudspeth,30-39,417
+Hudspeth,40-49,368
+Hudspeth,50-59,463
+Hudspeth,60-69,501
+Hudspeth,70-79,350
+Hudspeth,80-89,154
+Hudspeth,90-95+,50
+Hunt,< 10,"12,402"
+Hunt,19-Oct,"12,443"
+Hunt,20-29,"13,387"
+Hunt,30-39,"11,432"
+Hunt,40-49,"11,184"
+Hunt,50-59,"13,115"
+Hunt,60-69,"11,133"
+Hunt,70-79,"7,360"
+Hunt,80-89,"3,148"
+Hunt,90-95+,604
+Hutchinson,< 10,"2,857"
+Hutchinson,19-Oct,"2,857"
+Hutchinson,20-29,"2,590"
+Hutchinson,30-39,"2,665"
+Hutchinson,40-49,"2,521"
+Hutchinson,50-59,"2,479"
+Hutchinson,60-69,"2,521"
+Hutchinson,70-79,"1,421"
+Hutchinson,80-89,708
+Hutchinson,90-95+,163
+Irion,< 10,157
+Irion,19-Oct,167
+Irion,20-29,180
+Irion,30-39,140
+Irion,40-49,181
+Irion,50-59,256
+Irion,60-69,218
+Irion,70-79,191
+Irion,80-89,92
+Irion,90-95+,28
+Jack,< 10,"1,115"
+Jack,19-Oct,"1,080"
+Jack,20-29,"1,319"
+Jack,30-39,"1,196"
+Jack,40-49,"1,114"
+Jack,50-59,"1,284"
+Jack,60-69,"1,001"
+Jack,70-79,724
+Jack,80-89,346
+Jack,90-95+,70
+Jackson,< 10,"2,215"
+Jackson,19-Oct,"2,067"
+Jackson,20-29,"1,877"
+Jackson,30-39,"1,928"
+Jackson,40-49,"1,648"
+Jackson,50-59,"1,804"
+Jackson,60-69,"1,759"
+Jackson,70-79,"1,177"
+Jackson,80-89,611
+Jackson,90-95+,148
+Jasper,< 10,"4,743"
+Jasper,19-Oct,"4,565"
+Jasper,20-29,"4,257"
+Jasper,30-39,"4,226"
+Jasper,40-49,"3,975"
+Jasper,50-59,"4,889"
+Jasper,60-69,"4,726"
+Jasper,70-79,"3,291"
+Jasper,80-89,"1,428"
+Jasper,90-95+,307
+Jeff Davis,< 10,169
+Jeff Davis,19-Oct,239
+Jeff Davis,20-29,189
+Jeff Davis,30-39,185
+Jeff Davis,40-49,199
+Jeff Davis,50-59,351
+Jeff Davis,60-69,510
+Jeff Davis,70-79,361
+Jeff Davis,80-89,145
+Jeff Davis,90-95+,59
+Jefferson,< 10,"34,277"
+Jefferson,19-Oct,"31,396"
+Jefferson,20-29,"37,551"
+Jefferson,30-39,"36,818"
+Jefferson,40-49,"30,164"
+Jefferson,50-59,"31,046"
+Jefferson,60-69,"26,898"
+Jefferson,70-79,"15,035"
+Jefferson,80-89,"7,376"
+Jefferson,90-95+,"1,908"
+Jim Hogg,< 10,840
+Jim Hogg,19-Oct,763
+Jim Hogg,20-29,619
+Jim Hogg,30-39,653
+Jim Hogg,40-49,544
+Jim Hogg,50-59,544
+Jim Hogg,60-69,524
+Jim Hogg,70-79,421
+Jim Hogg,80-89,182
+Jim Hogg,90-95+,40
+Jim Wells,< 10,"6,753"
+Jim Wells,19-Oct,"5,785"
+Jim Wells,20-29,"5,659"
+Jim Wells,30-39,"5,222"
+Jim Wells,40-49,"4,474"
+Jim Wells,50-59,"4,490"
+Jim Wells,60-69,"4,274"
+Jim Wells,70-79,"2,835"
+Jim Wells,80-89,"1,305"
+Jim Wells,90-95+,283
+Johnson,< 10,"24,166"
+Johnson,19-Oct,"24,137"
+Johnson,20-29,"22,256"
+Johnson,30-39,"22,209"
+Johnson,40-49,"21,336"
+Johnson,50-59,"22,339"
+Johnson,60-69,"18,580"
+Johnson,70-79,"11,622"
+Johnson,80-89,"4,741"
+Johnson,90-95+,903
+Jones,< 10,"1,748"
+Jones,19-Oct,"1,958"
+Jones,20-29,"3,200"
+Jones,30-39,"3,415"
+Jones,40-49,"2,787"
+Jones,50-59,"2,465"
+Jones,60-69,"1,998"
+Jones,70-79,"1,370"
+Jones,80-89,658
+Jones,90-95+,165
+Karnes,< 10,"1,853"
+Karnes,19-Oct,"1,746"
+Karnes,20-29,"2,402"
+Karnes,30-39,"2,476"
+Karnes,40-49,"1,828"
+Karnes,50-59,"1,710"
+Karnes,60-69,"1,624"
+Karnes,70-79,991
+Karnes,80-89,550
+Karnes,90-95+,138
+Kaufman,< 10,"17,146"
+Kaufman,19-Oct,"18,346"
+Kaufman,20-29,"16,292"
+Kaufman,30-39,"17,002"
+Kaufman,40-49,"16,739"
+Kaufman,50-59,"15,722"
+Kaufman,60-69,"13,024"
+Kaufman,70-79,"7,734"
+Kaufman,80-89,"2,973"
+Kaufman,90-95+,642
+Kendall,< 10,"5,213"
+Kendall,19-Oct,"6,249"
+Kendall,20-29,"5,318"
+Kendall,30-39,"5,157"
+Kendall,40-49,"5,501"
+Kendall,50-59,"6,259"
+Kendall,60-69,"6,086"
+Kendall,70-79,"4,312"
+Kendall,80-89,"1,879"
+Kendall,90-95+,495
+Kenedy,< 10,56
+Kenedy,19-Oct,42
+Kenedy,20-29,53
+Kenedy,30-39,51
+Kenedy,40-49,31
+Kenedy,50-59,59
+Kenedy,60-69,49
+Kenedy,70-79,39
+Kenedy,80-89,20
+Kenedy,90-95+,14
+Kent,< 10,81
+Kent,19-Oct,89
+Kent,20-29,71
+Kent,30-39,62
+Kent,40-49,63
+Kent,50-59,103
+Kent,60-69,102
+Kent,70-79,117
+Kent,80-89,56
+Kent,90-95+,23
+Kerr,< 10,"5,723"
+Kerr,19-Oct,"5,818"
+Kerr,20-29,"5,798"
+Kerr,30-39,"5,250"
+Kerr,40-49,"4,960"
+Kerr,50-59,"6,779"
+Kerr,60-69,"8,000"
+Kerr,70-79,"6,440"
+Kerr,80-89,"3,026"
+Kerr,90-95+,702
+Kimble,< 10,488
+Kimble,19-Oct,465
+Kimble,20-29,467
+Kimble,30-39,387
+Kimble,40-49,496
+Kimble,50-59,637
+Kimble,60-69,768
+Kimble,70-79,605
+Kimble,80-89,285
+Kimble,90-95+,74
+King,< 10,25
+King,19-Oct,29
+King,20-29,36
+King,30-39,20
+King,40-49,28
+King,50-59,48
+King,60-69,46
+King,70-79,19
+King,80-89,17
+King,90-95+,3
+Kinney,< 10,420
+Kinney,19-Oct,398
+Kinney,20-29,498
+Kinney,30-39,427
+Kinney,40-49,382
+Kinney,50-59,408
+Kinney,60-69,490
+Kinney,70-79,406
+Kinney,80-89,235
+Kinney,90-95+,53
+Kleberg,< 10,"3,726"
+Kleberg,19-Oct,"5,952"
+Kleberg,20-29,"6,983"
+Kleberg,30-39,"3,374"
+Kleberg,40-49,"3,073"
+Kleberg,50-59,"3,067"
+Kleberg,60-69,"2,985"
+Kleberg,70-79,"2,034"
+Kleberg,80-89,893
+Kleberg,90-95+,208
+Knox,< 10,462
+Knox,19-Oct,508
+Knox,20-29,381
+Knox,30-39,340
+Knox,40-49,362
+Knox,50-59,417
+Knox,60-69,411
+Knox,70-79,315
+Knox,80-89,208
+Knox,90-95+,61
+La Salle,< 10,903
+La Salle,19-Oct,775
+La Salle,20-29,"1,902"
+La Salle,30-39,938
+La Salle,40-49,772
+La Salle,50-59,688
+La Salle,60-69,589
+La Salle,70-79,566
+La Salle,80-89,281
+La Salle,90-95+,70
+Lamar,< 10,"6,391"
+Lamar,19-Oct,"6,227"
+Lamar,20-29,"6,268"
+Lamar,30-39,"5,811"
+Lamar,40-49,"5,751"
+Lamar,50-59,"6,601"
+Lamar,60-69,"6,384"
+Lamar,70-79,"4,602"
+Lamar,80-89,"2,003"
+Lamar,90-95+,447
+Lamb,< 10,"1,913"
+Lamb,19-Oct,"1,756"
+Lamb,20-29,"1,535"
+Lamb,30-39,"1,550"
+Lamb,40-49,"1,371"
+Lamb,50-59,"1,571"
+Lamb,60-69,"1,415"
+Lamb,70-79,983
+Lamb,80-89,625
+Lamb,90-95+,143
+Lampasas,< 10,"2,437"
+Lampasas,19-Oct,"2,586"
+Lampasas,20-29,"2,453"
+Lampasas,30-39,"2,464"
+Lampasas,40-49,"2,477"
+Lampasas,50-59,"2,920"
+Lampasas,60-69,"2,868"
+Lampasas,70-79,"1,975"
+Lampasas,80-89,812
+Lampasas,90-95+,202
+Lavaca,< 10,"2,615"
+Lavaca,19-Oct,"2,632"
+Lavaca,20-29,"2,319"
+Lavaca,30-39,"2,224"
+Lavaca,40-49,"2,098"
+Lavaca,50-59,"2,512"
+Lavaca,60-69,"2,714"
+Lavaca,70-79,"1,883"
+Lavaca,80-89,973
+Lavaca,90-95+,286
+Lee,< 10,"2,191"
+Lee,19-Oct,"2,538"
+Lee,20-29,"2,167"
+Lee,30-39,"1,766"
+Lee,40-49,"1,856"
+Lee,50-59,"2,325"
+Lee,60-69,"2,194"
+Lee,70-79,"1,427"
+Lee,80-89,740
+Lee,90-95+,162
+Leon,< 10,"2,262"
+Leon,19-Oct,"1,953"
+Leon,20-29,"1,905"
+Leon,30-39,"1,895"
+Leon,40-49,"1,671"
+Leon,50-59,"2,252"
+Leon,60-69,"2,578"
+Leon,70-79,"1,981"
+Leon,80-89,824
+Leon,90-95+,170
+Liberty,< 10,"12,185"
+Liberty,19-Oct,"11,141"
+Liberty,20-29,"12,126"
+Liberty,30-39,"11,326"
+Liberty,40-49,"10,945"
+Liberty,50-59,"10,881"
+Liberty,60-69,"9,608"
+Liberty,70-79,"5,710"
+Liberty,80-89,"2,105"
+Liberty,90-95+,468
+Limestone,< 10,"2,960"
+Limestone,19-Oct,"2,916"
+Limestone,20-29,"2,993"
+Limestone,30-39,"2,978"
+Limestone,40-49,"2,606"
+Limestone,50-59,"3,056"
+Limestone,60-69,"3,178"
+Limestone,70-79,"2,091"
+Limestone,80-89,853
+Limestone,90-95+,212
+Lipscomb,< 10,458
+Lipscomb,19-Oct,454
+Lipscomb,20-29,410
+Lipscomb,30-39,416
+Lipscomb,40-49,334
+Lipscomb,50-59,431
+Lipscomb,60-69,389
+Lipscomb,70-79,263
+Lipscomb,80-89,147
+Lipscomb,90-95+,35
+Live Oak,< 10,"1,392"
+Live Oak,19-Oct,"1,284"
+Live Oak,20-29,"1,603"
+Live Oak,30-39,"1,551"
+Live Oak,40-49,"1,232"
+Live Oak,50-59,"1,566"
+Live Oak,60-69,"1,626"
+Live Oak,70-79,"1,161"
+Live Oak,80-89,528
+Live Oak,90-95+,115
+Llano,< 10,"1,988"
+Llano,19-Oct,"1,785"
+Llano,20-29,"1,811"
+Llano,30-39,"1,658"
+Llano,40-49,"1,929"
+Llano,50-59,"2,959"
+Llano,60-69,"4,140"
+Llano,70-79,"3,455"
+Llano,80-89,"1,543"
+Llano,90-95+,308
+Loving,< 10,10
+Loving,19-Oct,5
+Loving,20-29,5
+Loving,30-39,13
+Loving,40-49,2
+Loving,50-59,14
+Loving,60-69,25
+Loving,70-79,14
+Loving,80-89,4
+Loving,90-95+,2
+Lubbock,< 10,"40,070"
+Lubbock,19-Oct,"47,741"
+Lubbock,20-29,"59,843"
+Lubbock,30-39,"40,487"
+Lubbock,40-49,"31,744"
+Lubbock,50-59,"31,479"
+Lubbock,60-69,"28,272"
+Lubbock,70-79,"16,911"
+Lubbock,80-89,"8,371"
+Lubbock,90-95+,"1,919"
+Lynn,< 10,774
+Lynn,19-Oct,836
+Lynn,20-29,731
+Lynn,30-39,707
+Lynn,40-49,644
+Lynn,50-59,858
+Lynn,60-69,663
+Lynn,70-79,439
+Lynn,80-89,257
+Lynn,90-95+,68
+Madison,< 10,"1,830"
+Madison,19-Oct,"1,740"
+Madison,20-29,"2,646"
+Madison,30-39,"2,205"
+Madison,40-49,"1,633"
+Madison,50-59,"1,357"
+Madison,60-69,"1,424"
+Madison,70-79,"1,040"
+Madison,80-89,443
+Madison,90-95+,103
+Marion,< 10,"1,043"
+Marion,19-Oct,979
+Marion,20-29,"1,001"
+Marion,30-39,"1,002"
+Marion,40-49,991
+Marion,50-59,"1,587"
+Marion,60-69,"1,621"
+Marion,70-79,"1,128"
+Marion,80-89,486
+Marion,90-95+,119
+Martin,< 10,921
+Martin,19-Oct,826
+Martin,20-29,860
+Martin,30-39,689
+Martin,40-49,575
+Martin,50-59,679
+Martin,60-69,571
+Martin,70-79,389
+Martin,80-89,165
+Martin,90-95+,52
+Mason,< 10,435
+Mason,19-Oct,479
+Mason,20-29,410
+Mason,30-39,328
+Mason,40-49,428
+Mason,50-59,553
+Mason,60-69,680
+Mason,70-79,628
+Mason,80-89,262
+Mason,90-95+,60
+Matagorda,< 10,"5,048"
+Matagorda,19-Oct,"4,819"
+Matagorda,20-29,"4,852"
+Matagorda,30-39,"4,391"
+Matagorda,40-49,"3,916"
+Matagorda,50-59,"4,767"
+Matagorda,60-69,"4,583"
+Matagorda,70-79,"2,646"
+Matagorda,80-89,"1,254"
+Matagorda,90-95+,274
+Maverick,< 10,"9,810"
+Maverick,19-Oct,"9,398"
+Maverick,20-29,"9,018"
+Maverick,30-39,"6,919"
+Maverick,40-49,"6,476"
+Maverick,50-59,"5,757"
+Maverick,60-69,"5,061"
+Maverick,70-79,"3,174"
+Maverick,80-89,"1,484"
+Maverick,90-95+,328
+McCulloch,< 10,"1,018"
+McCulloch,19-Oct,"1,028"
+McCulloch,20-29,952
+McCulloch,30-39,866
+McCulloch,40-49,864
+McCulloch,50-59,989
+McCulloch,60-69,"1,160"
+McCulloch,70-79,913
+McCulloch,80-89,411
+McCulloch,90-95+,117
+McLennan,< 10,"35,555"
+McLennan,19-Oct,"40,469"
+McLennan,20-29,"39,061"
+McLennan,30-39,"32,922"
+McLennan,40-49,"27,372"
+McLennan,50-59,"28,621"
+McLennan,60-69,"25,999"
+McLennan,70-79,"15,786"
+McLennan,80-89,"7,434"
+McLennan,90-95+,"1,733"
+McMullen,< 10,72
+McMullen,19-Oct,67
+McMullen,20-29,75
+McMullen,30-39,64
+McMullen,40-49,56
+McMullen,50-59,97
+McMullen,60-69,120
+McMullen,70-79,93
+McMullen,80-89,91
+McMullen,90-95+,17
+Medina,< 10,"6,452"
+Medina,19-Oct,"7,072"
+Medina,20-29,"7,685"
+Medina,30-39,"6,062"
+Medina,40-49,"6,138"
+Medina,50-59,"6,772"
+Medina,60-69,"6,103"
+Medina,70-79,"4,001"
+Medina,80-89,"1,641"
+Medina,90-95+,342
+Menard,< 10,221
+Menard,19-Oct,227
+Menard,20-29,200
+Menard,30-39,183
+Menard,40-49,167
+Menard,50-59,292
+Menard,60-69,344
+Menard,70-79,296
+Menard,80-89,156
+Menard,90-95+,55
+Midland,< 10,"27,851"
+Midland,19-Oct,"24,682"
+Midland,20-29,"28,618"
+Midland,30-39,"27,924"
+Midland,40-49,"19,365"
+Midland,50-59,"18,073"
+Midland,60-69,"14,545"
+Midland,70-79,"6,501"
+Midland,80-89,"3,516"
+Midland,90-95+,879
+Milam,< 10,"3,295"
+Milam,19-Oct,"3,367"
+Milam,20-29,"2,832"
+Milam,30-39,"2,602"
+Milam,40-49,"2,735"
+Milam,50-59,"3,206"
+Milam,60-69,"3,451"
+Milam,70-79,"2,361"
+Milam,80-89,"1,103"
+Milam,90-95+,256
+Mills,< 10,566
+Mills,19-Oct,578
+Mills,20-29,516
+Mills,30-39,419
+Mills,40-49,478
+Mills,50-59,631
+Mills,60-69,764
+Mills,70-79,621
+Mills,80-89,273
+Mills,90-95+,85
+Mitchell,< 10,905
+Mitchell,19-Oct,881
+Mitchell,20-29,"1,652"
+Mitchell,30-39,"1,166"
+Mitchell,40-49,979
+Mitchell,50-59,858
+Mitchell,60-69,856
+Mitchell,70-79,583
+Mitchell,80-89,293
+Mitchell,90-95+,90
+Montague,< 10,"2,436"
+Montague,19-Oct,"2,303"
+Montague,20-29,"2,081"
+Montague,30-39,"2,123"
+Montague,40-49,"2,145"
+Montague,50-59,"2,690"
+Montague,60-69,"2,660"
+Montague,70-79,"2,013"
+Montague,80-89,988
+Montague,90-95+,191
+Montgomery,< 10,"79,186"
+Montgomery,19-Oct,"86,211"
+Montgomery,20-29,"76,583"
+Montgomery,30-39,"78,746"
+Montgomery,40-49,"79,919"
+Montgomery,50-59,"77,942"
+Montgomery,60-69,"63,313"
+Montgomery,70-79,"36,192"
+Montgomery,80-89,"13,647"
+Montgomery,90-95+,"2,714"
+Moore,< 10,"3,468"
+Moore,19-Oct,"3,469"
+Moore,20-29,"3,161"
+Moore,30-39,"2,853"
+Moore,40-49,"2,487"
+Moore,50-59,"2,391"
+Moore,60-69,"1,908"
+Moore,70-79,"1,010"
+Moore,80-89,484
+Moore,90-95+,100
+Morris,< 10,"1,561"
+Morris,19-Oct,"1,416"
+Morris,20-29,"1,405"
+Morris,30-39,"1,329"
+Morris,40-49,"1,357"
+Morris,50-59,"1,537"
+Morris,60-69,"1,729"
+Morris,70-79,"1,230"
+Morris,80-89,632
+Morris,90-95+,139
+Motley,< 10,106
+Motley,19-Oct,149
+Motley,20-29,120
+Motley,30-39,106
+Motley,40-49,115
+Motley,50-59,141
+Motley,60-69,189
+Motley,70-79,175
+Motley,80-89,96
+Motley,90-95+,33
+Nacogdoches,< 10,"8,336"
+Nacogdoches,19-Oct,"9,728"
+Nacogdoches,20-29,"12,746"
+Nacogdoches,30-39,"6,974"
+Nacogdoches,40-49,"6,606"
+Nacogdoches,50-59,"7,193"
+Nacogdoches,60-69,"7,119"
+Nacogdoches,70-79,"4,427"
+Nacogdoches,80-89,"1,965"
+Nacogdoches,90-95+,467
+Navarro,< 10,"6,523"
+Navarro,19-Oct,"6,969"
+Navarro,20-29,"6,093"
+Navarro,30-39,"5,836"
+Navarro,40-49,"5,921"
+Navarro,50-59,"6,575"
+Navarro,60-69,"6,026"
+Navarro,70-79,"4,154"
+Navarro,80-89,"1,675"
+Navarro,90-95+,403
+Newton,< 10,"1,399"
+Newton,19-Oct,"1,585"
+Newton,20-29,"1,861"
+Newton,30-39,"1,650"
+Newton,40-49,"1,574"
+Newton,50-59,"1,941"
+Newton,60-69,"1,889"
+Newton,70-79,"1,229"
+Newton,80-89,516
+Newton,90-95+,115
+Nolan,< 10,"1,982"
+Nolan,19-Oct,"2,114"
+Nolan,20-29,"1,906"
+Nolan,30-39,"1,707"
+Nolan,40-49,"1,543"
+Nolan,50-59,"1,706"
+Nolan,60-69,"1,723"
+Nolan,70-79,"1,120"
+Nolan,80-89,531
+Nolan,90-95+,161
+Nueces,< 10,"51,375"
+Nueces,19-Oct,"49,457"
+Nueces,20-29,"53,826"
+Nueces,30-39,"50,103"
+Nueces,40-49,"42,164"
+Nueces,50-59,"42,667"
+Nueces,60-69,"38,255"
+Nueces,70-79,"21,648"
+Nueces,80-89,"9,473"
+Nueces,90-95+,"2,275"
+Ochiltree,< 10,"1,670"
+Ochiltree,19-Oct,"1,663"
+Ochiltree,20-29,"1,351"
+Ochiltree,30-39,"1,347"
+Ochiltree,40-49,"1,240"
+Ochiltree,50-59,"1,206"
+Ochiltree,60-69,914
+Ochiltree,70-79,471
+Ochiltree,80-89,242
+Ochiltree,90-95+,55
+Oldham,< 10,198
+Oldham,19-Oct,447
+Oldham,20-29,264
+Oldham,30-39,185
+Oldham,40-49,229
+Oldham,50-59,233
+Oldham,60-69,268
+Oldham,70-79,173
+Oldham,80-89,91
+Oldham,90-95+,24
+Orange,< 10,"10,637"
+Orange,19-Oct,"10,796"
+Orange,20-29,"11,022"
+Orange,30-39,"10,770"
+Orange,40-49,"9,957"
+Orange,50-59,"11,272"
+Orange,60-69,"10,226"
+Orange,70-79,"6,515"
+Orange,80-89,"3,026"
+Orange,90-95+,641
+Palo Pinto,< 10,"3,489"
+Palo Pinto,19-Oct,"3,715"
+Palo Pinto,20-29,"3,557"
+Palo Pinto,30-39,"3,197"
+Palo Pinto,40-49,"3,218"
+Palo Pinto,50-59,"3,855"
+Palo Pinto,60-69,"3,851"
+Palo Pinto,70-79,"2,685"
+Palo Pinto,80-89,"1,093"
+Palo Pinto,90-95+,214
+Panola,< 10,"3,293"
+Panola,19-Oct,"3,243"
+Panola,20-29,"2,947"
+Panola,30-39,"3,032"
+Panola,40-49,"2,782"
+Panola,50-59,"2,974"
+Panola,60-69,"3,075"
+Panola,70-79,"2,050"
+Panola,80-89,969
+Panola,90-95+,189
+Parker,< 10,"16,537"
+Parker,19-Oct,"18,092"
+Parker,20-29,"16,883"
+Parker,30-39,"16,552"
+Parker,40-49,"16,320"
+Parker,50-59,"19,516"
+Parker,60-69,"16,945"
+Parker,70-79,"10,462"
+Parker,80-89,"4,229"
+Parker,90-95+,855
+Parmer,< 10,"1,578"
+Parmer,19-Oct,"1,437"
+Parmer,20-29,"1,254"
+Parmer,30-39,"1,186"
+Parmer,40-49,"1,166"
+Parmer,50-59,"1,271"
+Parmer,60-69,974
+Parmer,70-79,600
+Parmer,80-89,308
+Parmer,90-95+,88
+Pecos,< 10,"2,175"
+Pecos,19-Oct,"1,843"
+Pecos,20-29,"2,156"
+Pecos,30-39,"2,236"
+Pecos,40-49,"1,972"
+Pecos,50-59,"1,829"
+Pecos,60-69,"1,515"
+Pecos,70-79,908
+Pecos,80-89,390
+Pecos,90-95+,86
+Polk,< 10,"5,468"
+Polk,19-Oct,"5,215"
+Polk,20-29,"5,793"
+Polk,30-39,"6,069"
+Polk,40-49,"5,810"
+Polk,50-59,"7,065"
+Polk,60-69,"7,922"
+Polk,70-79,"4,384"
+Polk,80-89,"1,513"
+Polk,90-95+,317
+Potter,< 10,"16,734"
+Potter,19-Oct,"16,250"
+Potter,20-29,"16,557"
+Potter,30-39,"17,497"
+Potter,40-49,"14,183"
+Potter,50-59,"13,542"
+Potter,60-69,"11,570"
+Potter,70-79,"6,395"
+Potter,80-89,"3,438"
+Potter,90-95+,"1,025"
+Presidio,< 10,"1,016"
+Presidio,19-Oct,883
+Presidio,20-29,846
+Presidio,30-39,708
+Presidio,40-49,764
+Presidio,50-59,813
+Presidio,60-69,861
+Presidio,70-79,703
+Presidio,80-89,342
+Presidio,90-95+,94
+Rains,< 10,"1,351"
+Rains,19-Oct,"1,230"
+Rains,20-29,"1,296"
+Rains,30-39,"1,235"
+Rains,40-49,"1,315"
+Rains,50-59,"1,819"
+Rains,60-69,"1,943"
+Rains,70-79,"1,399"
+Rains,80-89,572
+Rains,90-95+,99
+Randall,< 10,"18,653"
+Randall,19-Oct,"19,445"
+Randall,20-29,"20,248"
+Randall,30-39,"18,377"
+Randall,40-49,"16,467"
+Randall,50-59,"16,696"
+Randall,60-69,"15,736"
+Randall,70-79,"9,157"
+Randall,80-89,"4,175"
+Randall,90-95+,831
+Reagan,< 10,566
+Reagan,19-Oct,587
+Reagan,20-29,492
+Reagan,30-39,448
+Reagan,40-49,462
+Reagan,50-59,439
+Reagan,60-69,377
+Reagan,70-79,201
+Reagan,80-89,127
+Reagan,90-95+,34
+Real,< 10,421
+Real,19-Oct,319
+Real,20-29,416
+Real,30-39,242
+Real,40-49,296
+Real,50-59,455
+Real,60-69,568
+Real,70-79,543
+Real,80-89,258
+Real,90-95+,51
+Red River,< 10,"1,416"
+Red River,19-Oct,"1,245"
+Red River,20-29,"1,294"
+Red River,30-39,"1,263"
+Red River,40-49,"1,309"
+Red River,50-59,"1,638"
+Red River,60-69,"1,695"
+Red River,70-79,"1,373"
+Red River,80-89,595
+Red River,90-95+,143
+Reeves,< 10,"1,953"
+Reeves,19-Oct,"1,830"
+Reeves,20-29,"2,792"
+Reeves,30-39,"2,769"
+Reeves,40-49,"2,035"
+Reeves,50-59,"1,522"
+Reeves,60-69,"1,320"
+Reeves,70-79,877
+Reeves,80-89,466
+Reeves,90-95+,108
+Refugio,< 10,864
+Refugio,19-Oct,886
+Refugio,20-29,844
+Refugio,30-39,634
+Refugio,40-49,686
+Refugio,50-59,912
+Refugio,60-69,877
+Refugio,70-79,754
+Refugio,80-89,387
+Refugio,90-95+,100
+Roberts,< 10,103
+Roberts,19-Oct,128
+Roberts,20-29,81
+Roberts,30-39,105
+Roberts,40-49,81
+Roberts,50-59,125
+Roberts,60-69,115
+Roberts,70-79,93
+Roberts,80-89,45
+Roberts,90-95+,15
+Robertson,< 10,"2,185"
+Robertson,19-Oct,"2,176"
+Robertson,20-29,"2,267"
+Robertson,30-39,"2,153"
+Robertson,40-49,"1,936"
+Robertson,50-59,"2,417"
+Robertson,60-69,"2,338"
+Robertson,70-79,"1,543"
+Robertson,80-89,684
+Robertson,90-95+,197
+Rockwall,< 10,"11,644"
+Rockwall,19-Oct,"16,013"
+Rockwall,20-29,"12,989"
+Rockwall,30-39,"10,650"
+Rockwall,40-49,"14,114"
+Rockwall,50-59,"14,146"
+Rockwall,60-69,"10,439"
+Rockwall,70-79,"5,866"
+Rockwall,80-89,"2,198"
+Rockwall,90-95+,433
+Runnels,< 10,"1,276"
+Runnels,19-Oct,"1,253"
+Runnels,20-29,"1,158"
+Runnels,30-39,"1,135"
+Runnels,40-49,"1,008"
+Runnels,50-59,"1,233"
+Runnels,60-69,"1,221"
+Runnels,70-79,"1,043"
+Runnels,80-89,483
+Runnels,90-95+,128
+Rusk,< 10,"6,273"
+Rusk,19-Oct,"6,781"
+Rusk,20-29,"7,469"
+Rusk,30-39,"7,290"
+Rusk,40-49,"6,718"
+Rusk,50-59,"6,890"
+Rusk,60-69,"6,349"
+Rusk,70-79,"4,079"
+Rusk,80-89,"1,779"
+Rusk,90-95+,414
+Sabine,< 10,"1,087"
+Sabine,19-Oct,"1,152"
+Sabine,20-29,"1,001"
+Sabine,30-39,946
+Sabine,40-49,"1,016"
+Sabine,50-59,"1,563"
+Sabine,60-69,"1,866"
+Sabine,70-79,"1,580"
+Sabine,80-89,669
+Sabine,90-95+,158
+San Augustine,< 10,978
+San Augustine,19-Oct,819
+San Augustine,20-29,866
+San Augustine,30-39,816
+San Augustine,40-49,865
+San Augustine,50-59,"1,222"
+San Augustine,60-69,"1,311"
+San Augustine,70-79,"1,051"
+San Augustine,80-89,499
+San Augustine,90-95+,135
+San Jacinto,< 10,"3,567"
+San Jacinto,19-Oct,"3,514"
+San Jacinto,20-29,"3,511"
+San Jacinto,30-39,"2,995"
+San Jacinto,40-49,"3,047"
+San Jacinto,50-59,"3,953"
+San Jacinto,60-69,"4,277"
+San Jacinto,70-79,"2,983"
+San Jacinto,80-89,"1,142"
+San Jacinto,90-95+,201
+San Patricio,< 10,"9,502"
+San Patricio,19-Oct,"9,318"
+San Patricio,20-29,"9,239"
+San Patricio,30-39,"8,873"
+San Patricio,40-49,"7,484"
+San Patricio,50-59,"7,617"
+San Patricio,60-69,"6,741"
+San Patricio,70-79,"4,690"
+San Patricio,80-89,"2,014"
+San Patricio,90-95+,442
+San Saba,< 10,692
+San Saba,19-Oct,675
+San Saba,20-29,976
+San Saba,30-39,684
+San Saba,40-49,583
+San Saba,50-59,738
+San Saba,60-69,841
+San Saba,70-79,695
+San Saba,80-89,294
+San Saba,90-95+,68
+Schleicher,< 10,399
+Schleicher,19-Oct,458
+Schleicher,20-29,365
+Schleicher,30-39,363
+Schleicher,40-49,314
+Schleicher,50-59,355
+Schleicher,60-69,384
+Schleicher,70-79,225
+Schleicher,80-89,129
+Schleicher,90-95+,38
+Scurry,< 10,"2,289"
+Scurry,19-Oct,"2,412"
+Scurry,20-29,"2,499"
+Scurry,30-39,"2,407"
+Scurry,40-49,"1,989"
+Scurry,50-59,"2,007"
+Scurry,60-69,"1,675"
+Scurry,70-79,"1,039"
+Scurry,80-89,583
+Scurry,90-95+,149
+Shackelford,< 10,404
+Shackelford,19-Oct,419
+Shackelford,20-29,410
+Shackelford,30-39,313
+Shackelford,40-49,362
+Shackelford,50-59,480
+Shackelford,60-69,471
+Shackelford,70-79,289
+Shackelford,80-89,135
+Shackelford,90-95+,31
+Shelby,< 10,"3,587"
+Shelby,19-Oct,"3,446"
+Shelby,20-29,"2,830"
+Shelby,30-39,"2,892"
+Shelby,40-49,"2,904"
+Shelby,50-59,"3,109"
+Shelby,60-69,"2,854"
+Shelby,70-79,"1,897"
+Shelby,80-89,905
+Shelby,90-95+,185
+Sherman,< 10,435
+Sherman,19-Oct,446
+Sherman,20-29,395
+Sherman,30-39,284
+Sherman,40-49,387
+Sherman,50-59,428
+Sherman,60-69,326
+Sherman,70-79,227
+Sherman,80-89,116
+Sherman,90-95+,42
+Smith,< 10,"31,213"
+Smith,19-Oct,"31,690"
+Smith,20-29,"31,236"
+Smith,30-39,"30,501"
+Smith,40-49,"26,173"
+Smith,50-59,"27,229"
+Smith,60-69,"25,328"
+Smith,70-79,"16,616"
+Smith,80-89,"7,773"
+Smith,90-95+,"1,764"
+Somervell,< 10,"1,115"
+Somervell,19-Oct,"1,150"
+Somervell,20-29,"1,239"
+Somervell,30-39,"1,033"
+Somervell,40-49,"1,049"
+Somervell,50-59,"1,268"
+Somervell,60-69,"1,305"
+Somervell,70-79,840
+Somervell,80-89,389
+Somervell,90-95+,89
+Starr,< 10,"11,516"
+Starr,19-Oct,"10,315"
+Starr,20-29,"9,764"
+Starr,30-39,"7,824"
+Starr,40-49,"7,394"
+Starr,50-59,"6,367"
+Starr,60-69,"5,018"
+Starr,70-79,"3,546"
+Starr,80-89,"1,560"
+Starr,90-95+,345
+Stephens,< 10,"1,225"
+Stephens,19-Oct,"1,195"
+Stephens,20-29,"1,306"
+Stephens,30-39,"1,180"
+Stephens,40-49,988
+Stephens,50-59,"1,183"
+Stephens,60-69,"1,206"
+Stephens,70-79,850
+Stephens,80-89,407
+Stephens,90-95+,99
+Sterling,< 10,138
+Sterling,19-Oct,169
+Sterling,20-29,140
+Sterling,30-39,146
+Sterling,40-49,113
+Sterling,50-59,181
+Sterling,60-69,172
+Sterling,70-79,114
+Sterling,80-89,86
+Sterling,90-95+,32
+Stonewall,< 10,153
+Stonewall,19-Oct,156
+Stonewall,20-29,124
+Stonewall,30-39,125
+Stonewall,40-49,133
+Stonewall,50-59,175
+Stonewall,60-69,188
+Stonewall,70-79,156
+Stonewall,80-89,130
+Stonewall,90-95+,47
+Sutton,< 10,528
+Sutton,19-Oct,418
+Sutton,20-29,490
+Sutton,30-39,423
+Sutton,40-49,417
+Sutton,50-59,474
+Sutton,60-69,470
+Sutton,70-79,296
+Sutton,80-89,169
+Sutton,90-95+,60
+Swisher,< 10,957
+Swisher,19-Oct,"1,043"
+Swisher,20-29,990
+Swisher,30-39,944
+Swisher,40-49,757
+Swisher,50-59,857
+Swisher,60-69,850
+Swisher,70-79,611
+Swisher,80-89,335
+Swisher,90-95+,86
+Tarrant,< 10,"284,087"
+Tarrant,19-Oct,"301,093"
+Tarrant,20-29,"294,497"
+Tarrant,30-39,"291,656"
+Tarrant,40-49,"272,984"
+Tarrant,50-59,"260,457"
+Tarrant,60-69,"192,879"
+Tarrant,70-79,"102,904"
+Tarrant,80-89,"42,039"
+Tarrant,90-95+,"9,671"
+Taylor,< 10,"18,949"
+Taylor,19-Oct,"20,405"
+Taylor,20-29,"22,006"
+Taylor,30-39,"19,628"
+Taylor,40-49,"14,476"
+Taylor,50-59,"15,376"
+Taylor,60-69,"13,814"
+Taylor,70-79,"8,585"
+Taylor,80-89,"4,585"
+Taylor,90-95+,"1,025"
+Terrell,< 10,90
+Terrell,19-Oct,90
+Terrell,20-29,82
+Terrell,30-39,80
+Terrell,40-49,89
+Terrell,50-59,92
+Terrell,60-69,117
+Terrell,70-79,102
+Terrell,80-89,64
+Terrell,90-95+,26
+Terry,< 10,"1,861"
+Terry,19-Oct,"1,783"
+Terry,20-29,"1,867"
+Terry,30-39,"1,784"
+Terry,40-49,"1,248"
+Terry,50-59,"1,408"
+Terry,60-69,"1,206"
+Terry,70-79,845
+Terry,80-89,435
+Terry,90-95+,116
+Throckmorton,< 10,168
+Throckmorton,19-Oct,172
+Throckmorton,20-29,155
+Throckmorton,30-39,141
+Throckmorton,40-49,149
+Throckmorton,50-59,220
+Throckmorton,60-69,214
+Throckmorton,70-79,199
+Throckmorton,80-89,88
+Throckmorton,90-95+,25
+Titus,< 10,"5,248"
+Titus,19-Oct,"5,150"
+Titus,20-29,"4,532"
+Titus,30-39,"3,928"
+Titus,40-49,"4,164"
+Titus,50-59,"4,024"
+Titus,60-69,"3,388"
+Titus,70-79,"2,190"
+Titus,80-89,"1,004"
+Titus,90-95+,252
+Tom Green,< 10,"15,292"
+Tom Green,19-Oct,"16,002"
+Tom Green,20-29,"19,539"
+Tom Green,30-39,"16,374"
+Tom Green,40-49,"12,124"
+Tom Green,50-59,"13,168"
+Tom Green,60-69,"12,485"
+Tom Green,70-79,"7,777"
+Tom Green,80-89,"3,838"
+Tom Green,90-95+,891
+Travis,< 10,"164,258"
+Travis,19-Oct,"151,644"
+Travis,20-29,"190,522"
+Travis,30-39,"226,601"
+Travis,40-49,"187,157"
+Travis,50-59,"146,524"
+Travis,60-69,"109,089"
+Travis,70-79,"48,545"
+Travis,80-89,"19,398"
+Travis,90-95+,"4,893"
+Trinity,< 10,"1,497"
+Trinity,19-Oct,"1,543"
+Trinity,20-29,"1,423"
+Trinity,30-39,"1,508"
+Trinity,40-49,"1,553"
+Trinity,50-59,"2,015"
+Trinity,60-69,"2,391"
+Trinity,70-79,"1,851"
+Trinity,80-89,747
+Trinity,90-95+,135
+Tyler,< 10,"2,490"
+Tyler,19-Oct,"2,340"
+Tyler,20-29,"3,028"
+Tyler,30-39,"2,764"
+Tyler,40-49,"2,450"
+Tyler,50-59,"2,892"
+Tyler,60-69,"2,983"
+Tyler,70-79,"2,258"
+Tyler,80-89,"1,041"
+Tyler,90-95+,191
+Upshur,< 10,"4,711"
+Upshur,19-Oct,"5,386"
+Upshur,20-29,"5,109"
+Upshur,30-39,"4,697"
+Upshur,40-49,"4,744"
+Upshur,50-59,"5,745"
+Upshur,60-69,"5,391"
+Upshur,70-79,"3,464"
+Upshur,80-89,"1,521"
+Upshur,90-95+,298
+Upton,< 10,511
+Upton,19-Oct,556
+Upton,20-29,476
+Upton,30-39,417
+Upton,40-49,399
+Upton,50-59,397
+Upton,60-69,452
+Upton,70-79,280
+Upton,80-89,164
+Upton,90-95+,54
+Uvalde,< 10,"3,733"
+Uvalde,19-Oct,"4,220"
+Uvalde,20-29,"4,770"
+Uvalde,30-39,"3,105"
+Uvalde,40-49,"2,930"
+Uvalde,50-59,"2,953"
+Uvalde,60-69,"2,792"
+Uvalde,70-79,"2,060"
+Uvalde,80-89,967
+Uvalde,90-95+,238
+Val Verde,< 10,"8,167"
+Val Verde,19-Oct,"7,638"
+Val Verde,20-29,"8,178"
+Val Verde,30-39,"6,176"
+Val Verde,40-49,"5,580"
+Val Verde,50-59,"5,118"
+Val Verde,60-69,"4,405"
+Val Verde,70-79,"3,351"
+Val Verde,80-89,"1,617"
+Val Verde,90-95+,330
+Van Zandt,< 10,"6,916"
+Van Zandt,19-Oct,"6,923"
+Van Zandt,20-29,"6,216"
+Van Zandt,30-39,"5,972"
+Van Zandt,40-49,"6,447"
+Van Zandt,50-59,"7,683"
+Van Zandt,60-69,"7,536"
+Van Zandt,70-79,"5,495"
+Van Zandt,80-89,"2,425"
+Van Zandt,90-95+,479
+Victoria,< 10,"11,971"
+Victoria,19-Oct,"12,620"
+Victoria,20-29,"14,202"
+Victoria,30-39,"12,808"
+Victoria,40-49,"10,053"
+Victoria,50-59,"10,613"
+Victoria,60-69,"10,110"
+Victoria,70-79,"6,175"
+Victoria,80-89,"2,838"
+Victoria,90-95+,635
+Walker,< 10,"7,013"
+Walker,19-Oct,"9,676"
+Walker,20-29,"14,727"
+Walker,30-39,"10,302"
+Walker,40-49,"9,530"
+Walker,50-59,"9,374"
+Walker,60-69,"7,145"
+Walker,70-79,"4,360"
+Walker,80-89,"1,851"
+Walker,90-95+,381
+Waller,< 10,"5,797"
+Waller,19-Oct,"10,566"
+Waller,20-29,"9,937"
+Waller,30-39,"5,652"
+Waller,40-49,"5,478"
+Waller,50-59,"5,990"
+Waller,60-69,"5,203"
+Waller,70-79,"3,275"
+Waller,80-89,"1,166"
+Waller,90-95+,241
+Ward,< 10,"1,834"
+Ward,19-Oct,"1,702"
+Ward,20-29,"1,630"
+Ward,30-39,"1,580"
+Ward,40-49,"1,147"
+Ward,50-59,"1,262"
+Ward,60-69,"1,045"
+Ward,70-79,642
+Ward,80-89,384
+Ward,90-95+,96
+Washington,< 10,"4,109"
+Washington,19-Oct,"4,954"
+Washington,20-29,"4,376"
+Washington,30-39,"3,986"
+Washington,40-49,"3,728"
+Washington,50-59,"4,514"
+Washington,60-69,"4,720"
+Washington,70-79,"3,229"
+Washington,80-89,"1,631"
+Washington,90-95+,464
+Webb,< 10,"46,734"
+Webb,19-Oct,"48,977"
+Webb,20-29,"45,588"
+Webb,30-39,"36,125"
+Webb,40-49,"35,720"
+Webb,50-59,"29,032"
+Webb,60-69,"20,756"
+Webb,70-79,"11,842"
+Webb,80-89,"4,966"
+Webb,90-95+,"1,205"
+Wharton,< 10,"5,593"
+Wharton,19-Oct,"5,956"
+Wharton,20-29,"5,255"
+Wharton,30-39,"4,978"
+Wharton,40-49,"4,472"
+Wharton,50-59,"5,013"
+Wharton,60-69,"4,954"
+Wharton,70-79,"3,033"
+Wharton,80-89,"1,484"
+Wharton,90-95+,355
+Wheeler,< 10,727
+Wheeler,19-Oct,692
+Wheeler,20-29,592
+Wheeler,30-39,572
+Wheeler,40-49,542
+Wheeler,50-59,576
+Wheeler,60-69,693
+Wheeler,70-79,513
+Wheeler,80-89,237
+Wheeler,90-95+,57
+Wichita,< 10,"17,343"
+Wichita,19-Oct,"17,558"
+Wichita,20-29,"22,085"
+Wichita,30-39,"17,784"
+Wichita,40-49,"14,049"
+Wichita,50-59,"15,635"
+Wichita,60-69,"14,428"
+Wichita,70-79,"8,740"
+Wichita,80-89,"4,626"
+Wichita,90-95+,"1,048"
+Wilbarger,< 10,"1,656"
+Wilbarger,19-Oct,"1,598"
+Wilbarger,20-29,"1,625"
+Wilbarger,30-39,"1,633"
+Wilbarger,40-49,"1,248"
+Wilbarger,50-59,"1,606"
+Wilbarger,60-69,"1,506"
+Wilbarger,70-79,"1,095"
+Wilbarger,80-89,499
+Wilbarger,90-95+,149
+Willacy,< 10,"3,021"
+Willacy,19-Oct,"3,029"
+Willacy,20-29,"3,890"
+Willacy,30-39,"3,120"
+Willacy,40-49,"2,461"
+Willacy,50-59,"2,123"
+Willacy,60-69,"2,026"
+Willacy,70-79,"1,287"
+Willacy,80-89,579
+Willacy,90-95+,155
+Williamson,< 10,"77,564"
+Williamson,19-Oct,"81,475"
+Williamson,20-29,"72,389"
+Williamson,30-39,"82,098"
+Williamson,40-49,"84,684"
+Williamson,50-59,"67,919"
+Williamson,60-69,"52,260"
+Williamson,70-79,"30,652"
+Williamson,80-89,"11,552"
+Williamson,90-95+,"2,448"
+Wilson,< 10,"5,916"
+Wilson,19-Oct,"7,024"
+Wilson,20-29,"6,700"
+Wilson,30-39,"5,392"
+Wilson,40-49,"6,143"
+Wilson,50-59,"7,468"
+Wilson,60-69,"6,529"
+Wilson,70-79,"3,802"
+Wilson,80-89,"1,460"
+Wilson,90-95+,321
+Winkler,< 10,"1,322"
+Winkler,19-Oct,"1,192"
+Winkler,20-29,"1,216"
+Winkler,30-39,970
+Winkler,40-49,836
+Winkler,50-59,830
+Winkler,60-69,692
+Winkler,70-79,387
+Winkler,80-89,180
+Winkler,90-95+,60
+Wise,< 10,"8,340"
+Wise,19-Oct,"9,018"
+Wise,20-29,"8,575"
+Wise,30-39,"8,691"
+Wise,40-49,"8,285"
+Wise,50-59,"9,945"
+Wise,60-69,"8,071"
+Wise,70-79,"5,301"
+Wise,80-89,"2,065"
+Wise,90-95+,399
+Wood,< 10,"4,869"
+Wood,19-Oct,"5,082"
+Wood,20-29,"4,686"
+Wood,30-39,"4,403"
+Wood,40-49,"4,249"
+Wood,50-59,"5,887"
+Wood,60-69,"6,893"
+Wood,70-79,"5,856"
+Wood,80-89,"2,564"
+Wood,90-95+,496
+Yoakum,< 10,"1,595"
+Yoakum,19-Oct,"1,498"
+Yoakum,20-29,"1,202"
+Yoakum,30-39,"1,099"
+Yoakum,40-49,908
+Yoakum,50-59,"1,018"
+Yoakum,60-69,782
+Yoakum,70-79,519
+Yoakum,80-89,251
+Yoakum,90-95+,56
+Young,< 10,"2,520"
+Young,19-Oct,"2,246"
+Young,20-29,"2,032"
+Young,30-39,"2,149"
+Young,40-49,"1,949"
+Young,50-59,"2,320"
+Young,60-69,"2,458"
+Young,70-79,"1,741"
+Young,80-89,866
+Young,90-95+,220
+Zapata,< 10,"2,591"
+Zapata,19-Oct,"2,355"
+Zapata,20-29,"1,923"
+Zapata,30-39,"1,768"
+Zapata,40-49,"1,581"
+Zapata,50-59,"1,393"
+Zapata,60-69,"1,154"
+Zapata,70-79,846
+Zapata,80-89,314
+Zapata,90-95+,90
+Zavala,< 10,"2,165"
+Zavala,19-Oct,"1,936"
+Zavala,20-29,"2,000"
+Zavala,30-39,"1,391"
+Zavala,40-49,"1,285"
+Zavala,50-59,"1,201"
+Zavala,60-69,"1,096"
+Zavala,70-79,702
+Zavala,80-89,331
+Zavala,90-95+,92
