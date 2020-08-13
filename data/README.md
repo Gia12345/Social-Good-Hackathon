@@ -33,6 +33,6 @@ General_Information_land_use.csv
 policy_scores_us_counties_reformat.xls  
 all_county_policies.csv  
 #### Health
-2020 Texas County Health.csv
+2020 Texas County Health.csv  
 2018 County Health Rankings Texas Data - v3.xls  
 Healthcare worker shortage.csv  
