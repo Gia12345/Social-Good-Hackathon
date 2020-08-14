@@ -5,5 +5,5 @@
 #### Tech Used:
 Python (pandas, numpy, seaborn, sklearn)  
 Jupyter Notebook  
-AWS Sagemaker  
+AWS Amazon Sagemaker  
 AWS S3  
