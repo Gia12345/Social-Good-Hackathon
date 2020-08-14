@@ -3,7 +3,7 @@
 ### Gia Gillis
 ### Amanda Wright
 #### Tech Used:
-Python
-Jupyter Notebook
-AWS Sagemaker
-AWS S3
+Python (pandas, numpy, seaborn, sklearn)  
+Jupyter Notebook  
+AWS Sagemaker  
+AWS S3  
